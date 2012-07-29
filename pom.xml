@@ -24,5 +24,6 @@
   </dependencies>
   <modules>
   	<module>scjp</module>
+  	<module>ejb</module>
   </modules>
 </project>
